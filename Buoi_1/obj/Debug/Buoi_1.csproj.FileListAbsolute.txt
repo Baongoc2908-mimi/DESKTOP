@@ -1,0 +1,11 @@
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\DESKTOP\Buoi_1\bin\Debug\Buoi_1.exe.config
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\DESKTOP\Buoi_1\bin\Debug\Buoi_1.exe
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\DESKTOP\Buoi_1\bin\Debug\Buoi_1.pdb
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\DESKTOP\Buoi_1\obj\Debug\Buoi_1.csproj.AssemblyReference.cache
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\DESKTOP\Buoi_1\obj\Debug\Buoi_1.Form_b1.resources
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\DESKTOP\Buoi_1\obj\Debug\Buoi_1.Form_Tong.resources
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\DESKTOP\Buoi_1\obj\Debug\Buoi_1.Properties.Resources.resources
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\DESKTOP\Buoi_1\obj\Debug\Buoi_1.csproj.GenerateResource.cache
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\DESKTOP\Buoi_1\obj\Debug\Buoi_1.csproj.CoreCompileInputs.cache
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\DESKTOP\Buoi_1\obj\Debug\Buoi_1.exe
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\DESKTOP\Buoi_1\obj\Debug\Buoi_1.pdb

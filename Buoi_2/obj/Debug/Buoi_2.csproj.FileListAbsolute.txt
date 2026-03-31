@@ -1,0 +1,11 @@
+C:\Users\Administrator\Downloads\Buoi_2\Buoi_2\bin\Debug\Buoi_2.exe.config
+C:\Users\Administrator\Downloads\Buoi_2\Buoi_2\bin\Debug\Buoi_2.exe
+C:\Users\Administrator\Downloads\Buoi_2\Buoi_2\bin\Debug\Buoi_2.pdb
+C:\Users\Administrator\Downloads\Buoi_2\Buoi_2\obj\Debug\Buoi_2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Buoi_2\Buoi_2\obj\Debug\Buoi_2.Form1.resources
+C:\Users\Administrator\Downloads\Buoi_2\Buoi_2\obj\Debug\Buoi_2.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Buoi_2\Buoi_2\obj\Debug\Buoi_2.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Buoi_2\Buoi_2\obj\Debug\Buoi_2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Buoi_2\Buoi_2\obj\Debug\Buoi_2.exe
+C:\Users\Administrator\Downloads\Buoi_2\Buoi_2\obj\Debug\Buoi_2.pdb
+C:\Users\Administrator\Downloads\Buoi_2\Buoi_2\obj\Debug\Buoi_2.Form2.resources

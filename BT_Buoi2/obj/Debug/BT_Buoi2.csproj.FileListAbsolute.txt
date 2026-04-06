@@ -1,0 +1,16 @@
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\bin\Debug\BT_Buoi2.exe.config
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\bin\Debug\BT_Buoi2.exe
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\bin\Debug\BT_Buoi2.pdb
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.csproj.AssemblyReference.cache
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_1.resources
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Properties.Resources.resources
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.csproj.GenerateResource.cache
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.csproj.CoreCompileInputs.cache
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.exe
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.pdb
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.exe.config
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_2.resources
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_3.resources
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_4.resources
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_5.resources
+D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_6.resources

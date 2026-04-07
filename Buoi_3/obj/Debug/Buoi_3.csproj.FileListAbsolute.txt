@@ -1,0 +1,12 @@
+C:\DESKTOP\Buoi_3\bin\Debug\Buoi_3.exe.config
+C:\DESKTOP\Buoi_3\bin\Debug\Buoi_3.exe
+C:\DESKTOP\Buoi_3\bin\Debug\Buoi_3.pdb
+C:\DESKTOP\Buoi_3\obj\Debug\Buoi_3.csproj.AssemblyReference.cache
+C:\DESKTOP\Buoi_3\obj\Debug\Buoi_3.Form1.resources
+C:\DESKTOP\Buoi_3\obj\Debug\Buoi_3.Properties.Resources.resources
+C:\DESKTOP\Buoi_3\obj\Debug\Buoi_3.csproj.GenerateResource.cache
+C:\DESKTOP\Buoi_3\obj\Debug\Buoi_3.csproj.CoreCompileInputs.cache
+C:\DESKTOP\Buoi_3\obj\Debug\Buoi_3.exe
+C:\DESKTOP\Buoi_3\obj\Debug\Buoi_3.pdb
+C:\DESKTOP\Buoi_3\obj\Debug\Buoi_3.Form2.resources
+C:\DESKTOP\Buoi_3\obj\Debug\Buoi_3.Form3.resources

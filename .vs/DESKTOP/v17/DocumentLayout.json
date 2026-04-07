@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\B\u00C0I H\u1ECCC\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BT_Buoi2\\DESKTOP\\",
+  "WorkspaceRootPath": "C:\\DESKTOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D7E5F9-AE32-4218-A928-AF64D397F92B}|BT_Buoi2\\BT_Buoi2.csproj|d:\\b\u00E0i h\u1ECDc\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_buoi2\\desktop\\bt_buoi2\\bai_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D7E5F9-AE32-4218-A928-AF64D397F92B}|BT_Buoi2\\BT_Buoi2.csproj|solutionrelative:bt_buoi2\\bai_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13B4AA6B-006C-43E1-ACD7-C18544C6C277}|Buoi_3\\Buoi_3.csproj|c:\\desktop\\buoi_3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B4AA6B-006C-43E1-ACD7-C18544C6C277}|Buoi_3\\Buoi_3.csproj|solutionrelative:buoi_3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D7E5F9-AE32-4218-A928-AF64D397F92B}|BT_Buoi2\\BT_Buoi2.csproj|d:\\b\u00E0i h\u1ECDc\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_buoi2\\desktop\\bt_buoi2\\hoten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D7E5F9-AE32-4218-A928-AF64D397F92B}|BT_Buoi2\\BT_Buoi2.csproj|solutionrelative:bt_buoi2\\hoten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13B4AA6B-006C-43E1-ACD7-C18544C6C277}|Buoi_3\\Buoi_3.csproj|c:\\desktop\\buoi_3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13B4AA6B-006C-43E1-ACD7-C18544C6C277}|Buoi_3\\Buoi_3.csproj|solutionrelative:buoi_3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D7E5F9-AE32-4218-A928-AF64D397F92B}|BT_Buoi2\\BT_Buoi2.csproj|d:\\b\u00E0i h\u1ECDc\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_buoi2\\desktop\\bt_buoi2\\bai_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9D7E5F9-AE32-4218-A928-AF64D397F92B}|BT_Buoi2\\BT_Buoi2.csproj|solutionrelative:bt_buoi2\\bai_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D7E5F9-AE32-4218-A928-AF64D397F92B}|BT_Buoi2\\BT_Buoi2.csproj|D:\\B\u00C0I H\u1ECCC\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BT_Buoi2\\DESKTOP\\bt_buoi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D7E5F9-AE32-4218-A928-AF64D397F92B}|BT_Buoi2\\BT_Buoi2.csproj|solutionrelative:bt_buoi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13B4AA6B-006C-43E1-ACD7-C18544C6C277}|Buoi_3\\Buoi_3.csproj|c:\\desktop\\buoi_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B4AA6B-006C-43E1-ACD7-C18544C6C277}|Buoi_3\\Buoi_3.csproj|solutionrelative:buoi_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HoTen.cs",
-              "DocumentMoniker": "D:\\B\u00C0I H\u1ECCC\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BT_Buoi2\\DESKTOP\\BT_Buoi2\\HoTen.cs",
-              "RelativeDocumentMoniker": "BT_Buoi2\\HoTen.cs",
-              "ToolTip": "D:\\B\u00C0I H\u1ECCC\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BT_Buoi2\\DESKTOP\\BT_Buoi2\\HoTen.cs",
-              "RelativeToolTip": "BT_Buoi2\\HoTen.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DESKTOP\\Buoi_3\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi_3\\Program.cs",
+              "ToolTip": "C:\\DESKTOP\\Buoi_3\\Program.cs",
+              "RelativeToolTip": "Buoi_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T17:55:54.99Z",
+              "WhenOpened": "2026-04-07T08:59:24.971Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Bai_6.cs",
-              "DocumentMoniker": "D:\\B\u00C0I H\u1ECCC\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BT_Buoi2\\DESKTOP\\BT_Buoi2\\Bai_6.cs",
-              "RelativeDocumentMoniker": "BT_Buoi2\\Bai_6.cs",
-              "ToolTip": "D:\\B\u00C0I H\u1ECCC\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BT_Buoi2\\DESKTOP\\BT_Buoi2\\Bai_6.cs",
-              "RelativeToolTip": "BT_Buoi2\\Bai_6.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\DESKTOP\\Buoi_3\\Form3.cs",
+              "RelativeDocumentMoniker": "Buoi_3\\Form3.cs",
+              "ToolTip": "C:\\DESKTOP\\Buoi_3\\Form3.cs",
+              "RelativeToolTip": "Buoi_3\\Form3.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T17:55:24.186Z",
+              "WhenOpened": "2026-04-07T09:25:43.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Bai_6.cs [Design]",
-              "DocumentMoniker": "D:\\B\u00C0I H\u1ECCC\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BT_Buoi2\\DESKTOP\\BT_Buoi2\\Bai_6.cs",
-              "RelativeDocumentMoniker": "BT_Buoi2\\Bai_6.cs",
-              "ToolTip": "D:\\B\u00C0I H\u1ECCC\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BT_Buoi2\\DESKTOP\\BT_Buoi2\\Bai_6.cs [Design]",
-              "RelativeToolTip": "BT_Buoi2\\Bai_6.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\DESKTOP\\Buoi_3\\Form3.cs",
+              "RelativeDocumentMoniker": "Buoi_3\\Form3.cs",
+              "ToolTip": "C:\\DESKTOP\\Buoi_3\\Form3.cs [Design]",
+              "RelativeToolTip": "Buoi_3\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T17:40:56.503Z",
+              "WhenOpened": "2026-04-07T09:23:36.379Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\B\u00C0I H\u1ECCC\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BT_Buoi2\\DESKTOP\\BT_Buoi2\\Program.cs",
-              "RelativeDocumentMoniker": "BT_Buoi2\\Program.cs",
-              "ToolTip": "D:\\B\u00C0I H\u1ECCC\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BT_Buoi2\\DESKTOP\\BT_Buoi2\\Program.cs",
-              "RelativeToolTip": "BT_Buoi2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T16:01:47.543Z",
-              "EditorCaption": ""
             }
           ]
         }

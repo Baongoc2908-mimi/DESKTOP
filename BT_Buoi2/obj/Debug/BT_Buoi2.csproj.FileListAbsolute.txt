@@ -14,3 +14,18 @@ D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\D
 D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_4.resources
 D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_5.resources
 D:\BÀI HỌC\Phát triển ứng dụng Desktop\BT_Buoi2\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_6.resources
+C:\DESKTOP\BT_Buoi2\bin\Debug\BT_Buoi2.exe.config
+C:\DESKTOP\BT_Buoi2\bin\Debug\BT_Buoi2.exe
+C:\DESKTOP\BT_Buoi2\bin\Debug\BT_Buoi2.pdb
+C:\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.csproj.AssemblyReference.cache
+C:\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_1.resources
+C:\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_2.resources
+C:\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_3.resources
+C:\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_4.resources
+C:\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_5.resources
+C:\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Bai_6.resources
+C:\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.Properties.Resources.resources
+C:\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.csproj.GenerateResource.cache
+C:\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.csproj.CoreCompileInputs.cache
+C:\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.exe
+C:\DESKTOP\BT_Buoi2\obj\Debug\BT_Buoi2.pdb
